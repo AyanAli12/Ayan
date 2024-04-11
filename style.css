@@ -1,0 +1,102 @@
+html,body{
+  margin: 0;
+  height: 100%;
+  color:#FFFFFF;
+}
+
+
+
+.img1{
+  background-image: url(4k-Nature-Wallpapers-scaled.jpg);
+  min-height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  
+}
+.imgtext{
+  
+  width: 80px;
+  text-align: center;
+  top: 50%;
+  position: absolute;
+  left: 40%;
+  letter-spacing: 2px;
+  font-size: 50px;
+}
+.imgbg1{
+  color: #FFFFFF;
+  background: #4A4747;
+  padding: 20px;
+  
+}
+
+
+
+.para{
+  background-color: #595959;
+  
+  position: absolute;
+}
+.par h1{
+text-align: center;
+}
+.img2{
+  background-image: url(4k-Wallpaper-Images-Mountain-Wallpaper-scaled.jpg);
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.imgtext1{
+  background-color: #53535C;
+  width: 120px;
+  text-align: center;
+  position: absolute;
+}
+.par1 h1{
+  text-align: center;
+}
+.para1{
+  background-color: #53535C;
+  position: absolute;
+}
+.par1{
+  
+}
+.img3{
+  background-image: url(nature-landscape-with-vegetation-flora.jpg);
+  min-height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  margin-top: 0px;
+}
+
+.imgbg3{
+  color: #FFFFFF;
+  background: #4A4747;
+  padding: 10px;
+}
+.imgtext1{
+  top: 150%;
+  left: 40%;
+  font-size: 70px;
+  position: absolute;
+  text-align: center;
+  width: 300px;
+}
+.imgtext2 {
+  width: 120px;
+  text-align: center;
+  position: absolute;
+  top: 250%;
+  left: 40%;
+  font-size: 70px;
+}
+.imgbg2{
+  padding: 20px;
+  color: #FFFFFF;
+  background: #4E4E4E;
+}
